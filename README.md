@@ -1,17 +1,21 @@
 #                                                         Hi 👋 , I’m Vibhuti Jindal
 
 ## Electronics and Communication Engineering Sophomore 👩🏻‍🎓
-## NIT Kurukshetra🏫🎓
+### NIT Kurukshetra🏫🎓
+
 
 ### I'm interested in  Machine Learning and Data Science.👀👀
 
-### I'm currently working on deep learning🔎🔎
+#### I have worked on some machine Learning Projects
 
-### Loking to collaborate for open source projects💻💞️
+#### I'm currently working on deep learning🔎🔎
 
-### Future Goals: Take a deep dive into TechnoPool✌🏻✌🏻
+#### Loking to collaborate for open source projects and participate in Hackathons💻💞️
 
-### Show some love by starring some of my Repositories.😊😊
+#### Future Goals: Take a deep dive into TechnoPool✌🏻✌🏻
+
+#### Show some love by starring some of my Repositories.😊😊
+
 
 
 
