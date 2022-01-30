@@ -8,7 +8,7 @@
 
 #### I have worked on some machine Learning Projects
 
-#### I'm currently working on deep learning🔎🔎
+#### I'm currently practicing DSA🔎🔎
 
 #### Loking to collaborate for open source projects and participate in Hackathons💻💞️
 
