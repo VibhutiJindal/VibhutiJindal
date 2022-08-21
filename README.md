@@ -10,6 +10,8 @@
 
 #### Working on Projects🔎🔎
 
+#### currently learning a bit  Development
+
 #### Loking to collaborate for open source projects and participate in Hackathons💻💞️
 
 #### Future Goals: Take a deep dive into TechnoPool✌🏻✌🏻
