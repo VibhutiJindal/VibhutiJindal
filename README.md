@@ -10,7 +10,7 @@
 
 #### Working on Projects🔎🔎
 
-#### currently learning a bit  Development
+#### Currently learning a bit  Development
 
 #### Loking to collaborate for open source projects and participate in Hackathons💻💞️
 
