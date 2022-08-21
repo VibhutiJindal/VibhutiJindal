@@ -4,11 +4,11 @@
 ### NIT Kurukshetra🏫🎓
 
 
-### I'm interested in  Machine Learning and Data Science.👀👀
+### I'm a Data Science Enthusiast.👀👀
 
-#### I have worked on some machine Learning Projects
+#### Exploring the field of Machine Learning and Deep Learning.
 
-#### I'm currently practicing DSA🔎🔎
+#### Working on Projects🔎🔎
 
 #### Loking to collaborate for open source projects and participate in Hackathons💻💞️
 
