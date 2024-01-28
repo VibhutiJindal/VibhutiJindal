@@ -1,6 +1,6 @@
 #                                                         Hi 👋 , I’m Vibhuti Jindal
 
-## Electronics and Communication Engineering Sophomore 👩🏻‍🎓
+## Electronics and Communication Engineering  👩🏻‍🎓
 ### NIT Kurukshetra🏫🎓
 
 
