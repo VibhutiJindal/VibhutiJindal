@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vibhuti</h1>
-<h3 align="center">Final-year ECE student enthusiastic about development and data science</h3>
+<h3 align="center"Software Engineer at Microsoft</h3>
 
 ## About Me :
 <p align="left"> <a href="https://twitter.com/unnati_twts><img src="https://img.shields.io/twitter/follow/unnati_twts?logo=twitter&style=for-the-badge" alt="kajukatli123" /></a> </p>
